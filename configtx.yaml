@@ -196,7 +196,7 @@ Orderer: &OrdererDefaults
 ################################################################################
 Profiles:
 
-    TwoOrgsOrdererGenesis:
+    ThreeOrgsOrdererGenesis:
         Capabilities:
             <<: *ChannelCapabilities
         Orderer:
